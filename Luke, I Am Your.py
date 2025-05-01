@@ -20,6 +20,6 @@ print(relation_to_luke(nome))
 # Prestar atenção na identação, pois o python é sensível a isso.
 # a função print() deve ser com o p minusculo.
 # def é a palavra reservada para definir uma função.
-# não esquecer de clocar o return no final da função.
+# não esquecer de colocar o return no final da função.
 # o nome da função deve ser o mesmo na hora de chamar a função.
 # Não esquecer de colocar dois pontos no final da função.

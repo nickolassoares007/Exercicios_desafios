@@ -6,3 +6,5 @@ b = int(input("Digite o segundo número: ")) #Aqui estou pedindo o segundo núme
 
 result = addition(a, b) #Aqui estou chamando a função de soma e passando os números como parâmetros
 print(f"A soma de {a} e {b} é: {result}")
+
+#esse codigo é uma função simples que soma dois números inteiros e imprime o resultado.
